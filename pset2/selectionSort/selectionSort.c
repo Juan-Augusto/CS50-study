@@ -16,6 +16,10 @@ int main(void)
       numbers[i] = smallestNumber;
       numbers[i + 1] = currentNumber;
     }
+    else
+    {
+      smallestNumber = currentNumber;
+    }
 
     printf("%i\n", numbers[i]);
   }
