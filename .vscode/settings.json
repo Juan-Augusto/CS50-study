@@ -5,6 +5,7 @@
     "*.tsx": "typescriptreact",
     ".env.*": "dotenv",
     ".prettierrc": "json",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "ctype.h": "c"
   }
 }
